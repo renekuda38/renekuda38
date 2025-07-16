@@ -3,6 +3,7 @@
 <h2>👨‍💻 DevOps learning process</h2>
 
 It started at the end of the 2024. 
+
 Learned Linux, KPI, Docker, Git, CI/CD and Bash - till July 2025.
 
 
