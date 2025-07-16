@@ -6,7 +6,7 @@ It started at the end of the 2024.
 
 Learned Linux, KPI, Docker, Git, CI/CD and Bash - till July 2025.
 
-Now I am focusing on training my skills.
+Now I am focusing on training my skills and learning another skills - Kubernetes and Python.
 
 
 <!-- <b>🧪 Creating a HomeLab</b>
