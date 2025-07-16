@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 DevOps learning process</h2>
 
+It started at the end of the 2024. 
+Learned Linux, KPI, Docker, Git, CI/CD and Bash - till July 2025.
+
+
 <!-- <b>🧪 Creating a HomeLab</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
