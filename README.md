@@ -4,7 +4,7 @@
 
 It started at the end of the 2024. 
 
-Learned Linux, KPI, Docker, Git, CI/CD and Bash - till July 2025.
+Learned Linux, KPI, Docker, Git and Bash - till July 2025.
 
 Now I am focusing on training my skills and learning another skills - Kubernetes and Python (ehance my current knowledge with focus on automation in DevOps environemnt).
 
