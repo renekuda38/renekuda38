@@ -20,6 +20,7 @@ Now I am focusing on training my skills and learning another skills - AWS, Pytho
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 -->
 
+<!--
 <h2>📃 Certificates</h2>
 
 <h2> 🤳 Connect with me:</h2>
@@ -33,3 +34,4 @@ Now I am focusing on training my skills and learning another skills - AWS, Pytho
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/rené-martin-kuda-5ba2561b5/
+-->
